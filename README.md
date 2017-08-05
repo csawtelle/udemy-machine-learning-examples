@@ -1,4 +1,4 @@
-machine_learning_examples
+# Udemy LazyProgrammer Machine Learning Examples
 =========================
 
 A collection of machine learning examples and tutorials.
